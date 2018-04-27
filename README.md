@@ -1,7 +1,6 @@
-# React Go
+# BitBook
 
-Simple React boilerplate to start you up.
-Includes redux, redux-thunk, react-router, simple express server to serve project and build config for dev and prod.
+BitBook is single page app which simulates social network where you can create account, post text, video, and image posts. In this app is also possible to leave comments, update profile, search users, and filter posts. For styling react-bootstrap was used, and css with sass. This app shows usage of stateless and statefull components, routing, and navigation. App also has validation for all cases.
 
 ## Installation
 
@@ -21,8 +20,6 @@ To run project in prod env with express server and minification of resources, ru
 npm start
 ```
 
-## Redux ajax adapter
-Simple function that wraps axios API calls and takes action creators to dispatch on call request, success or error.
-This can be extended with custom auth stuff, like headers, so you don't have to specify them with every API call you make.
+DEMO: *[BitBook](http://localhost:3030/#/loginPage)
 
 
