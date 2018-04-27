@@ -20,6 +20,6 @@ To run project in prod env with express server and minification of resources, ru
 npm start
 ```
 
-DEMO: *[BitBook](http://localhost:3030/#/loginPage)
+DEMO: [BitBook](http://localhost:3030/#/loginPage)
 
 
