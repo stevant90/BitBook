@@ -1,0 +1,58 @@
+.feed-img {
+
+    width: 100%;
+    margin-bottom: .5em;
+}
+
+.filter-posts {
+   
+    margin: .7em 0 1em 0;
+}
+
+.new-posts {
+
+    margin-top: 1.5em;
+}
+
+.delete-btn {
+
+    margin-bottom: 10px;
+}
+
+.go-back {
+
+    font-size: 16px;
+    font-weight: bold;
+    color: $go-back-btn;
+}
+
+.single-post {
+
+    margin-top: 1em;
+
+    p {
+    
+        font-size: 22px;
+        word-break: break-all;        
+    }
+}
+
+.text-posts {
+
+    p {
+    
+        font-size: 22px;
+        word-break: break-all;
+    }
+}
+
+.back-to-top {
+
+    font-size: 50px;
+    position: fixed;
+    bottom: 20px;
+    left: 10px;
+    color: $back-to-top-btn;
+    z-index: 1;
+}
+

@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Crete+Round|Lato|Patua+One");
+.start-display {
+  margin-top: 5em;
+  font-family: "Patua One", cursive; }
+
+p {
+  margin-top: 0; }
+  @media screen and (min-width: 992px) {
+    p {
+      font-size: 1.2em; } }
+
+.form {
+  margin-top: 2em; }
+
+h1 {
+  font-size: 4em; }
+
+body {
+  background-color: rgba(15, 157, 161, 0.644);
+  font-family: "Lato", sans-serif;
+  margin-top: 6em; }
+
+h1,
+h2,
+h3 {
+  font-family: "Crete Round", serif; }
+
+h3,
+h4 {
+  margin-top: 0; }
+
+a {
+  text-decoration: none;
+  cursor: pointer; }
+
+.feed-img {
+  width: 100%;
+  margin-bottom: .5em; }
+
+.filter-posts {
+  margin: .7em 0 1em 0; }
+
+.new-posts {
+  margin-top: 1.5em; }
+
+.delete-btn {
+  margin-bottom: 10px; }
+
+.go-back {
+  font-size: 16px;
+  font-weight: bold;
+  color: black; }
+
+.single-post {
+  margin-top: 1em; }
+  .single-post p {
+    font-size: 22px;
+    word-break: break-all; }
+
+.text-posts p {
+  font-size: 22px;
+  word-break: break-all; }
+
+.back-to-top {
+  font-size: 50px;
+  position: fixed;
+  bottom: 20px;
+  left: 10px;
+  color: #1d1daa;
+  z-index: 1; }
+
+.comments {
+  margin-top: 1em; }
+
+.comment-body p {
+  font-size: 18px; }
+
+/*# sourceMappingURL=style.css.map */

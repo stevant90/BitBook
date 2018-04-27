@@ -1,0 +1,17 @@
+{
+  "env": {
+    "browser": true,
+    "amd": true,
+    "es6": true,
+    "mocha": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": 1,
+    "no-debugger": 1,
+    "no-alert": 1
+  },
+  "globals": {
+    "expect": true
+  }
+}
