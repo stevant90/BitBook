@@ -47,7 +47,7 @@ export const SingleVideoComponent = ({ post, onDelete, ownId }) => {
 	return (
 		<Grid>
 			<Row>
-				<Glyphicon glyph="arrow-left">&nbsp;</Glyphicon>
+				<Glyphicon glyph="arrow-left" />&nbsp;
 				<Link to="/" className="go-back">
 					Go back
 				</Link>
