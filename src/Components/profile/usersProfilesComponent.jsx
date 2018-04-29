@@ -17,9 +17,8 @@ export const UsersProfilesComponent = ({ profile, back }) => {
 	return (
 		<Grid style={{ textAlign: 'center' }}>
 			<Row>
-				<Glyphicon glyph="arrow-left" style={{ float: 'left' }}>
+				<Glyphicon glyph="arrow-left" style={{ float: 'left' }} />
 					&nbsp;
-				</Glyphicon>
 				<a className="go-back" onClick={back} style={{ float: 'left' }}>
 					Go back
 				</a>
