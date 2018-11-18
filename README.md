@@ -2,8 +2,6 @@
 
 BitBook is single page app which simulates social network where you can create account, post text, video, and image posts. In this app is also possible to leave comments, update profile, search users, filter, and delete posts. For styling react-bootstrap was used, and css with sass. This app shows usage of stateless and statefull components, routing, and navigation. App also has validation for all cases.
 
-DEMO: [my-bitBook](https://mybitbook.herokuapp.com/#/loginPage)
-
 ## Installation
 
 ```sh
